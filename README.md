@@ -1,2 +1,2 @@
 # PROYECTO-EDA-TRIPLETEN
-Contiene un jupyter notebook en el cuál se realizo un analisis al conjunto de datos proporcionado. Esto con el fin de  identificar patrones que determinen si un juego tiene éxito o no. Esto nos permitirá detectar proyectos prometedores y planificar campañas publicitarias.
+Este proyecto tiene como objetivo principal explorar y analizar diversos aspectos del mercado de videojuegos. A través del estudio de un dataset detallado que incluye información sobre nombres de videojuegos, plataformas, años de lanzamiento, géneros, ventas en diferentes regiones, puntuaciones de críticos y usuarios, así como clasificaciones ESRB, buscamos obtener insights valiosos sobre las tendencias y comportamientos dentro de la industria de los videojuegos.
